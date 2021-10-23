@@ -3,3 +3,39 @@
         background-color: blue;
     }
 }
+
+@media screen and (max-width: 800px) {
+    .circle {
+        background-color: #f8067a;
+        height: 150px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .square {
+        background-color: red;
+        height: 150px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .flex-container-main-first-border {
+        background-color: greenyellow;
+        border-color: #f31b83;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .flex-item-text {
+        background-color: greenyellow;
+        font-size: 1.5em;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .flex-item-text {
+        background-color: greenyellow;
+        font-size: 1.5em;
+    }
+}
+
