@@ -8,6 +8,7 @@
     .circle {
         background-color: #f8067a;
         height: 150px;
+        width: 150px;
     }
 }
 
@@ -15,6 +16,7 @@
     .square {
         background-color: red;
         height: 150px;
+        width: 150px;
     }
 }
 
@@ -33,7 +35,7 @@
 }
 
 @media screen and (max-width: 800px) {
-    .flex-container-main-first-border {
+    .flex-container, .flex-container-squares {
         display: flex;
         flex-direction: column;
     }
