@@ -66,12 +66,12 @@ table {
 .nav {
   display: flex;
   column-gap: 23px;
-}
+  }
 .nav__item a {
   font-weight: bold;
   font-size: 14px;
   line-height: 19px;
-  color: #FFFFFF;
+  color: #ffc107;
   text-decoration: none;
 
 }
@@ -86,7 +86,7 @@ table {
   font-weight: bold;
   font-size: 14px;
   line-height: 19px;
-  color: #FFFFFF;
+  color: #d63384;
   width: 155px;
   border-left: 2px solid #fff;
   padding-left: 15px;
@@ -113,7 +113,7 @@ table {
 
 .header__title {
   font-weight: normal;
-  color: #D67E35;
+  color: #6610f2;
   margin-top: 203px;
   max-width: 500px;
 }
@@ -132,7 +132,7 @@ table {
 .header__title p {
   font-size: 18px;
   line-height: 25px;
-  color: #FFFFFF;
+  color: #6610f2;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -145,7 +145,7 @@ table {
   display: block;
   width: 61px;
   height: 2px;
-  background-color: #C4C4C4;
+  background-color: #198754;
 }
 
 .header__title p::before {
@@ -227,3 +227,18 @@ table {
   margin-left: 5px;
 }
 
+.btn-success{
+  margin-top: 19px;
+}
+
+.img-thumbnail{
+  background: none;
+  border: none;
+}
+.btn-primary{
+  color: #ffc107;
+}
+
+.header__logo{
+  background: #6610f2;
+}
