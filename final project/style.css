@@ -1,0 +1,28 @@
+.wrap {
+   height: 3000px;
+   width: 1862px;
+   background: silver;
+
+}
+.wrap1 {
+    width: 1862px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    background: rgba(255, 255, 255, 0.3);
+    mix-blend-mode: normal;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    box-shadow: 0px -1px 10px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(20px);
+    background: #0F2438;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #FFFFFF;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #FFFFFF;
+}
+
+
+
