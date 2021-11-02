@@ -20,7 +20,7 @@
 
 .wrap2 {
     width: 1862px;
-    height: 196px;
+    height: 125px;
     left: 0px;
     background: #FFFFFF;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15)
@@ -31,8 +31,7 @@
 .image_name{
     margin-left: 5px;
     margin-top: 35px;
-    width: 320px;
-
+    width: 230px;
 }
 
 .clock{
@@ -50,4 +49,311 @@ margin-top: 35px;
 .clock3{
 margin-left: 125px;
     height: 30px;
+}
+.nevskiy{
+margin-top: 40px;
+margin-left: 10px;
+}
+.nevskiy2{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.whatsup{
+    margin-top: 40px;
+    margin-left: 10px;
+    height: 0px;
+
+}
+.nomer{
+margin-top: 40px;
+    margin-left: 25px;
+    height: 0px;
+}
+.button{
+    text-align: center;
+    width: 164px;
+    height: 53px;
+    left: 283px;
+    top: 159px;
+    color: #FFFFFF;
+    background: #005BB9;
+    border-radius: 6px;
+}
+.button p{
+    margin-top: 12px;
+}
+.text1{
+height: 150px;
+}
+.text2{
+height: 150px;
+}
+.wrap3{
+    width: 1862px;
+    height: 70px;
+    left: 0px;
+    background: #FFFFFF;
+
+}
+.pole2{
+    width: 350px;
+    height: 53px;
+    background: #F4F5FA;
+    border-radius: 6px 0px 0px 6px;
+    margin-left: 30px;
+}
+.pole2 p{
+    margin-top: 12px;
+    margin-left: 19px;
+}
+.buttonn{
+    text-align: center;
+    width: 100px;
+    height: 53px;
+    left: 283px;
+    top: 159px;
+    color: #FFFFFF;
+    background: #005BB9;
+    border-radius: 6px;
+}
+.buttonn p{
+    margin-top: 12px;
+}
+.voitu{
+margin-top: 12px;
+margin-left: 80px;
+}
+
+.voitu2{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.hurt{
+    margin-top: 12px;
+    margin-left: 30px;
+}
+.hurt2{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.korzina{
+    margin-top: 12px;
+    margin-left: 30px;
+}
+.korzina2{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.wrap4{
+    width: 1862px;
+    height: 420px;
+    left: 0px;
+    background: #FFFFFF;
+}
+.wrap4_1{
+    width: 1364px;
+    height: 390px;
+}
+.wrap4_2blue{
+    width: 860px;
+    height: 390px;
+    background: url("./image/Mask Group (1).png") no-repeat center/cover;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.wrap4_2blue2{
+    margin-left: 380px;
+    margin-top: 28px;
+}
+.text1 {
+    position: absolute;
+    width: 327px;
+    height: 42px;
+    left: 380px;
+    top: 357px;
+}
+
+.text1 h1 {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 42px;
+    color: #0A1A2C;
+}
+
+.text2 {
+    position: absolute;
+    width: 117px;
+    height: 23px;
+    left: 383px;
+    top: 409px;
+}
+
+.text2 h2 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    text-decoration-line: underline;
+    color: #717171;
+}
+
+.text3 {
+    position: absolute;
+    width: 200px;
+    height: 43px;
+    left: 380px;
+    top: 440px;
+}
+
+.text3 h3 {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 43px;
+    color: #005BB9;
+}
+.text4 {
+    position: absolute;
+    width: 117px;
+    height: 26px;
+    left: 540px;
+    top: 455px;
+}
+
+.text4 h4 {
+    font-size: 18px;
+    line-height: 26px;
+    text-decoration-line: line-through;
+    color: #C2C5DA;
+}
+
+.buttonnn{
+    display: flex;
+    position: absolute;
+    width: 160px;
+    height: 49px;
+    left: 380px;
+    top: 515px;
+    background: #005BB9;
+    border-radius: 6px;
+    color: #FFFFFF;
+}
+.buttonnn p{
+    text-align: center;
+    margin-top: 10px;
+    width: 100px;
+    height: 49px;
+    margin-right: 20px;
+}
+.buttonnn img{
+    width: 26px;
+    height: 27px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.aktciya{
+    width: 329px;
+    height: 390px;
+}
+.aktciya1{
+    width: 329px;
+    height: 190px;
+    margin-bottom: 10px;
+    background: #F4F5FA;
+    border-radius: 10px;
+}
+.aktciya1 p{
+    position: absolute;
+    width: 42px;
+    height: 16px;
+    left: 1170px;
+    top: 260px;
+    color: #0F2438;
+}
+.aktciya2{
+    width: 329px;
+    height: 190px;
+    background: #F4F5FA;
+    border-radius: 10px;
+}
+.avt_zap_pag{
+position: absolute;
+margin-top: 54px;
+margin-left: 10px;
+}
+.obgonnaya{
+    position: absolute;
+    width: 200px;
+    height: 26px;
+    left: 90px;
+    top: 30px;
+    font-size: 14px;
+    color: #0A1A2C;
+}
+.obgonnaya p{
+
+}
+
+
+
+
+.circle{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 300px;
+    top: 430px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+}
+.circle img{
+    margin-left: 12px;
+    margin-top: 10px;
+}
+.circle2{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1080px;
+    top: 430px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+}
+.circle2 img{
+    margin-left: 16px;
+    margin-top: 10px;
+}
+.circle3{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left:660px;
+    top: 600px;
+    background: #0D1C2B;
+    border-radius: 50%;
+}
+
+.circle4{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 698px;
+    top: 600px;
+    background: #FFFFFF;
+    border: 1px solid #0A1A2C;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+
+.circle5{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 736px;
+    top: 600px;
+
+    background: #FFFFFF;
+    border-radius: 50%;
 }
