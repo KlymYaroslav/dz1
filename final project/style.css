@@ -1239,7 +1239,6 @@ margin-left: 80px;
 .kontaktuadres5{
     width: 470px;
     height: 40px;
-    background: #2E75FF;
     margin-top: 19px;
 }
 .email{
@@ -1247,11 +1246,11 @@ margin-left: 80px;
     height: 40px;
 }
 .pod{
-    height: 40px;
+    height: 38px;
     width: 177px;
     background: #005BB9;
-    border-right-radius: 6px;
-}
+    border-radius: 6px;
+   }
 .pod p{
     color:#FFFFFF;
     text-align: center;
@@ -1288,7 +1287,21 @@ margin-left: 80px;
     font-size: 16px;
     color: #737E9B;
 }
-
+.knopkka{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 49px;
+    width: 160px;
+    border-radius: 6px;
+    background: #005BB9;
+}
+.knopkka p{
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
 
 
 
