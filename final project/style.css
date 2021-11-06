@@ -270,6 +270,7 @@ margin-left: 80px;
     top: 260px;
     color: #0F2438;
 }
+
 .aktciya2{
     width: 329px;
     height: 190px;
@@ -429,7 +430,18 @@ margin-left: 80px;
 }
 .maslapereitu p{
   margin-left: 15px;
+    white-space: nowrap;
 }
+.fotka{
+    margin-left: 32px;
+    width: 154px;
+    height: 202px;
+}
+.fotka img{
+    width: 154px;
+    height: 202px;
+}
+
 .pereitu{
     width: 86px;
     height: 26px;
@@ -439,7 +451,6 @@ margin-left: 80px;
     background: #005BB9;
     border-radius: 6%;
 }
-
 .pereitu p{
     color: #FFFFFF;
     font-size: 14px;
@@ -1015,7 +1026,7 @@ margin-left: 80px;
     height: 390px;
     width: 124px;
 
-    margin-left: 283px;
+    margin-left: 33px;
     margin-top: 36px;
     margin-right: 90px;
 }
